@@ -43,7 +43,7 @@ header {
 
 #header-logo {
     margin-right: 30px;
-    background: url(/maf/img/maf-logo-01.svg) left no-repeat;
+    background: url(https://github.com/jamiehargrave/maf/blob/master/img/hero.jpg) left no-repeat;
     background-size: contain;
     
 }
