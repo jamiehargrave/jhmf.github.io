@@ -62,7 +62,7 @@ header {
     font-family: "Quicksand";
     text-decoration: none;
     color: var(--gf-blue);
-    background-image: url(/img/search-icon.svg);
+    background-image: url(/maf/img/search-icon.svg);
     background-repeat: no-repeat;
     background-position: 10px;
     background-size: 6%;
@@ -146,7 +146,7 @@ nav ul li a {
     width: 40px;
     height: 40px;
     float: left;
-    background: url(/img/account-icon-01.svg) no-repeat center;
+    background: url(/maf/img/account-icon-01.svg) no-repeat center;
     background-size: 80%;
 }
 
@@ -230,7 +230,7 @@ main {
 }
 
 #hero-image {
-    background: url(/img/hero.jpg) center no-repeat;
+    background: url(/maf/img/hero.jpg) center no-repeat;
     background-size: contain;
 }
 .cta-container {
@@ -469,7 +469,7 @@ footer {
 }
 
 #footer-logo {
-    background: url(/img/maf-cloud.svg) left no-repeat;
+    background: url(/maf/img/maf-cloud.svg) left no-repeat;
     background-size: contain;
 }
 
@@ -522,7 +522,7 @@ footer {
 .menu-button {
     height: 70px;
     width: 60px;
-    background: url(/img/menu-icon-w.svg) no-repeat center;
+    background: url(/maf/img/menu-icon-w.svg) no-repeat center;
     background-size: 70%;
     cursor: pointer;
     margin-right: 20px;
@@ -532,13 +532,13 @@ footer {
     max-height: 60px;
     margin-bottom: 5px;
     margin-top: 5px;
-    background: url(/img/maf-logo-01.svg) no-repeat center;
+    background: url(/maf/img/maf-logo-01.svg) no-repeat center;
     background-size: contain;
 }
 
 .m-header-search {
     width: 60px;
-    background: url(/img/search-icon-w.svg) no-repeat center;
+    background: url(/maf/img/search-icon-w.svg) no-repeat center;
     background-size: 50%;
     cursor: pointer;
     margin-left: 20px;
@@ -713,7 +713,7 @@ footer {
         justify-content: center;
     }
     #footer-logo {
-        background-image: url(/img/maf-logo-b.svg);
+        background-image: url(/maf/img/maf-logo-b.svg);
         height: 60px;
         background-size: contain;
         background-position: center;
